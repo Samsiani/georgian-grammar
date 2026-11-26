@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.2 — 2026-11-27
+
+- REG-03: reverts the 0.1.1 greeting rule. Both `გამარჯობა` and `გამარჯობათ` are correct, and both are in the orthographic dictionary. `გამარჯობათ` is used for several people or polite `თქვენ`, following A. Shanidze. The same goes for `დილა/საღამო მშვიდობისა(თ)`.
+- Removed common-error row 41.
+- Test C19 is replaced by clean case K04, which checks that `გამარჯობათ` is left unchanged.
+- New listing icon: the letter `ა` with a check badge.
+
 ## 0.1.1 — 2026-11-27
 
 - REG-03: the greeting is `გამარჯობა`; `გამარჯობათ` is incorrect. Also added how to open a formal email.

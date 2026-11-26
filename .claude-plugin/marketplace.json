@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Georgian (ქართული) grammar skill for writing, correcting, translating and explaining Georgian text.",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "georgian-grammar",
       "source": "./",
       "description": "Rule-based Georgian grammar, spelling, punctuation and style: case marking by tense series, verb agreement, declension, numerals, postpositions, negation, reported speech, punctuation, register and translation fidelity.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "George Samsiani"
       },

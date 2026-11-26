@@ -65,7 +65,7 @@ evals/cases.md           25 test cases: corrections, clean texts, writing tasks
 
 ## Testing
 
-`evals/cases.md` has 19 texts with errors, 3 correct texts that must come back unchanged, and 3 writing or explanation tasks. Run them with and without the skill and compare. A native speaker should review the expected answers before relying on them.
+`evals/cases.md` has 18 texts with errors, 4 correct texts that must come back unchanged, and 3 writing or explanation tasks. Run them with and without the skill and compare. A native speaker should review the expected answers before relying on them.
 
 ## Sources and credits
 

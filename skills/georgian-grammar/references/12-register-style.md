@@ -2,7 +2,7 @@
 
 Load this when writing anything longer than a sentence, any formal or customer-facing text, emails and letters, UI copy, or translations from English or Russian. Grammar can be perfect and the text still sound foreign. This file is about sounding like a native writer.
 
-Sources: B §2.1.13 (etiquette) · A §2.1.6.18 (respectful verb pairs) · Ar (via GZ) §5, §9 · LI style-and-lexical-choice, polite forms · GZ register notes.
+Sources: B §2.1.13 (etiquette) · A §2.1.6.18 (respectful verb pairs) · A. Shanidze, *ქართული ენის გრამატიკის საფუძვლები* (`-თ` in greetings) · Ar (via GZ) §5, §9 · LI style-and-lexical-choice, polite forms · GZ register notes.
 
 ---
 
@@ -47,8 +47,7 @@ Don't mix registers in one text, and don't switch `შენ` / `თქვენ
 
 | Situation | Formulas |
 |---|---|
-| Greeting | `გამარჯობა` (reply `გაგიმარჯოს`), `დილა მშვიდობისა`, `საღამო მშვიდობისა`. ✗ `გამარჯობათ`: the greeting takes no plural `-თ`, even for several people or in polite address [norm] |
-| Formal email or letter | open with the address alone (`პატივცემულო ბატონო დავით,`), then start the message. Keep `გამარჯობა` for less formal mail. |
+| Greeting | `გამარჯობა` for one person addressed as `შენ`. `გამარჯობათ` for several people, or for polite `თქვენ`. Both forms are correct and both are in the orthographic dictionary. Likewise `დილა მშვიდობისა(თ)`, `საღამო მშვიდობისა(თ)`. Reply: `გაგიმარჯოს` / `გაგიმარჯოთ`. Don't "correct" `გამარჯობათ` [norm] |
 | Goodbye | `ნახვამდის`, `კარგად იყავით`, `ღამე მშვიდობისა` |
 | Thanks | `მადლობა`, `დიდი მადლობა`, `გმადლობთ`; reply `არაფრის`, `რას ბრძანებთ` |
 | Apology | `ბოდიში`, `დიდი ბოდიში`, `უკაცრავად`, `მაპატიეთ` |
