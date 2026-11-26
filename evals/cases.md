@@ -1,6 +1,6 @@
 # Test cases
 
-24 cases for checking the skill by hand, or after any rule change. The expected answers need review by a native speaker before they are treated as gold.
+25 cases for checking the skill by hand, or after any rule change. The expected answers need review by a native speaker before they are treated as gold.
 
 **How to run:** give the model the input with the skill installed. Compare its output with the expected column, then run it again without the skill and compare.
 
@@ -26,6 +26,7 @@
 | C16 | ილია ჭავჭავაძე XIX-ე საუკუნეში ცხოვრობდა, გიორგი კი 60-ე სკოლაში სწავლობს. | ილია ჭავჭავაძე XIX საუკუნეში ცხოვრობდა, გიორგი კი მე-60 სკოლაში სწავლობს. | NUM-05 |
 | C17 | ის ცნობილი ქართული მწერალია და ინგლისულ ენასაც კარგად ფლობს. | ის ცნობილი ქართველი მწერალია და ინგლისურ ენასაც კარგად ფლობს. | ADJ-05, SPELL-02 |
 | C18 | დილით მან თავისი კბილები გაიხეხა და თავისი პალტო ჩაიცვა. | დილით მან კბილები გაიხეხა და პალტო ჩაიცვა. | VERS-02 |
+| C19 | გამარჯობათ, როგორ ბრძანდებით? | გამარჯობა, როგორ ბრძანდებით? | REG-03 |
 
 ## Clean cases: the text is correct and must come back unchanged
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 — 2026-11-27
+
+- REG-03: the greeting is `გამარჯობა`; `გამარჯობათ` is incorrect. Also added how to open a formal email.
+- Common-error index: row 41 (`გამარჯობათ` → `გამარჯობა`).
+- New test case C19 (25 cases in total).
+
 ## 0.1.0 — 2026-11-26
 
 First release.

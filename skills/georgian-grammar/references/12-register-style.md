@@ -47,7 +47,8 @@ Don't mix registers in one text, and don't switch `შენ` / `თქვენ
 
 | Situation | Formulas |
 |---|---|
-| Greeting | `გამარჯობა` (reply `გაგიმარჯოს`), `დილა მშვიდობისა`, `საღამო მშვიდობისა` |
+| Greeting | `გამარჯობა` (reply `გაგიმარჯოს`), `დილა მშვიდობისა`, `საღამო მშვიდობისა`. ✗ `გამარჯობათ`: the greeting takes no plural `-თ`, even for several people or in polite address [norm] |
+| Formal email or letter | open with the address alone (`პატივცემულო ბატონო დავით,`), then start the message. Keep `გამარჯობა` for less formal mail. |
 | Goodbye | `ნახვამდის`, `კარგად იყავით`, `ღამე მშვიდობისა` |
 | Thanks | `მადლობა`, `დიდი მადლობა`, `გმადლობთ`; reply `არაფრის`, `რას ბრძანებთ` |
 | Apology | `ბოდიში`, `დიდი ბოდიში`, `უკაცრავად`, `მაპატიეთ` |

@@ -44,3 +44,4 @@ A fast checklist for correction mode. Each line gives the symptom, an example, a
 | 38 | Old-preverb split | `ავღნიშნავ` · `ანხორციელებს` | `აღვნიშნავ` · `ახორციელებს` | PREV-05, PREV-06 |
 | 39 | Causative built wrong | `დაახატინა` · `აწერიებს` | `დაახატვინა` · `აწერინებს` | CAUS-01 |
 | 40 | Colloquial form in writing | `რო` · `არი` | `რომ` · `არის` | STYLE-04 |
+| 41 | Plural greeting | `გამარჯობათ` | `გამარჯობა` | REG-03 |

@@ -59,13 +59,13 @@ Agents that read `AGENTS.md` will also find a pointer to the skill in this repos
 skills/georgian-grammar/
   SKILL.md               modes, 12 core checks, reference map
   references/            15 rule files (01-spelling … 15-common-errors)
-evals/cases.md           24 test cases: corrections, clean texts, writing tasks
+evals/cases.md           25 test cases: corrections, clean texts, writing tasks
 .github/workflows/       builds the release zip on every v* tag
 ```
 
 ## Testing
 
-`evals/cases.md` has 18 texts with errors, 3 correct texts that must come back unchanged, and 3 writing or explanation tasks. Run them with and without the skill and compare. A native speaker should review the expected answers before relying on them.
+`evals/cases.md` has 19 texts with errors, 3 correct texts that must come back unchanged, and 3 writing or explanation tasks. Run them with and without the skill and compare. A native speaker should review the expected answers before relying on them.
 
 ## Sources and credits
 
