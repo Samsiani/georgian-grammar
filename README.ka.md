@@ -35,11 +35,7 @@ Claude Code-ში გაუშვით:
 
 ### სხვა აგენტები (Codex და სხვ.)
 
-აგენტის skills საქაღალდეში დააკოპირეთ მხოლოდ `skills/georgian-grammar` საქაღალდე:
-
-```bash
-cp -R skills/georgian-grammar ~/.codex/skills/georgian-grammar
-```
+აგენტის skills საქაღალდეში (Codex-ისთვის ეს არის `~/.codex/skills/`) დააკოპირეთ მხოლოდ `skills/georgian-grammar` საქაღალდე.
 
 ## წყაროები
 

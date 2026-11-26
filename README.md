@@ -28,12 +28,7 @@ In Claude Code, run:
 
 ### Claude Code (manual)
 
-```bash
-git clone https://github.com/Samsiani/georgian-grammar.git
-cp -R georgian-grammar/skills/georgian-grammar ~/.claude/skills/georgian-grammar
-```
-
-For a single project, copy the folder to `.claude/skills/georgian-grammar` inside that project instead.
+Download this repository from GitHub (**Code → Download ZIP**). Copy the `skills/georgian-grammar` folder into `~/.claude/skills/`. For a single project, copy it into that project's `.claude/skills/` folder instead.
 
 ### Claude apps (claude.ai, Claude Desktop)
 
@@ -42,13 +37,7 @@ For a single project, copy the folder to `.claude/skills/georgian-grammar` insid
 
 ### Other agents (Codex and any agent that supports Agent Skills)
 
-Copy only the `skills/georgian-grammar` folder into the agent's skills directory, for example:
-
-```bash
-cp -R skills/georgian-grammar ~/.codex/skills/georgian-grammar
-```
-
-Agents that read `AGENTS.md` will also find a pointer to the skill in this repository.
+Copy only the `skills/georgian-grammar` folder into the agent's skills directory, for example `~/.codex/skills/` for Codex.
 
 > Other Georgian skills also use the name `georgian-grammar`. If you install one manually next to this one, rename one of the folders. Plugin installs are namespaced and don't clash.
 
@@ -84,7 +73,7 @@ Full attribution and the list of changes are in [NOTICE.md](NOTICE.md).
 
 ## Contributing
 
-Corrections from native speakers and linguists are welcome. Open an issue or a pull request that names:
+Corrections from native speakers and linguists are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Open an issue or a pull request that names:
 - the rule ID;
 - the wrong and right forms;
 - a source.
