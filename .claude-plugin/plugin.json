@@ -8,6 +8,9 @@
   },
   "homepage": "https://github.com/Samsiani/georgian-grammar",
   "repository": "https://github.com/Samsiani/georgian-grammar",
+  "documentationUrl": "https://github.com/Samsiani/georgian-grammar#readme",
+  "supportUrl": "https://github.com/Samsiani/georgian-grammar/issues",
+  "privacyPolicyUrl": "https://github.com/Samsiani/georgian-grammar/blob/main/PRIVACY.md",
   "license": "CC-BY-4.0",
   "keywords": ["georgian", "kartuli", "ქართული", "grammar", "proofreading", "translation", "writing"],
   "skills": ["./skills/georgian-grammar"]
