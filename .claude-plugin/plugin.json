@@ -1,0 +1,14 @@
+{
+  "name": "georgian-grammar",
+  "description": "Rule-based Georgian (ქართული) grammar, spelling, punctuation and style for writing, correcting, translating and explaining Georgian text.",
+  "version": "0.1.0",
+  "author": {
+    "name": "George Samsiani",
+    "url": "https://github.com/Samsiani"
+  },
+  "homepage": "https://github.com/Samsiani/georgian-grammar",
+  "repository": "https://github.com/Samsiani/georgian-grammar",
+  "license": "CC-BY-4.0",
+  "keywords": ["georgian", "kartuli", "ქართული", "grammar", "proofreading", "translation", "writing"],
+  "skills": ["./skills/georgian-grammar"]
+}

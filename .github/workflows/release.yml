@@ -1,0 +1,31 @@
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check rule cross-references
+        shell: bash
+        run: |
+          cd skills/georgian-grammar/references
+          missing=$(comm -23 <(grep -ohE '\b[A-Z]+-[0-9]+\b' *.md | sort -u) <(grep -ohE '^## [A-Z]+-[0-9]+' *.md | sed 's/## //' | sort -u))
+          if [ -n "$missing" ]; then echo "Undefined rule IDs:"; echo "$missing"; exit 1; fi
+
+      - name: Build skill zip
+        run: |
+          cd skills
+          zip -r ../georgian-grammar.zip georgian-grammar -x '*.DS_Store'
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" georgian-grammar.zip --title "$GITHUB_REF_NAME" --generate-notes
