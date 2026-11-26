@@ -83,4 +83,4 @@ Keep rule IDs unique, tag every rule, and restate sources in your own words.
 ## License
 
 - Rule content (`skills/`, `evals/`, documentation): [CC BY 4.0](LICENSE).
-- GitHub workflow files: [MIT](LICENSE-CODE).
+- GitHub workflow files: [MIT](LICENSE-CODE.txt).

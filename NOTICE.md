@@ -1,7 +1,7 @@
 # Notice: sources, attribution and changes
 
 Georgian Grammar Skill © 2026 George Samsiani.
-Rule content is licensed under CC BY 4.0 (see `LICENSE`). Workflow files are licensed under MIT (see `LICENSE-CODE`).
+Rule content is licensed under CC BY 4.0 (see `LICENSE`). Workflow files are licensed under MIT (see `LICENSE-CODE.txt`).
 
 All rules in `skills/georgian-grammar/` are written in this project's own words. Examples are our own, or are short standard word forms and phrases needed to illustrate a rule. No source book is included in this repository.
 
