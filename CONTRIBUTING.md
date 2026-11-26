@@ -1,6 +1,6 @@
-# AGENTS.md
+# Contributing
 
-This repository is a Georgian (ქართული) grammar skill.
+This repository is a Georgian (ქართული) grammar skill. These notes are for people and AI agents who edit it.
 
 ## Using the rules
 
